@@ -1,0 +1,65 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "dept": "IT"
+        },
+        {
+            "id": 2,
+            "dept": "Human Resources"
+        },
+        {
+            "id": 3,
+            "dept": "Engineering"
+        },
+        {
+            "id": 4,
+            "dept": "Marketing"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "device": "2017 MacBook Pro"
+        },
+        {
+            "id": 2,
+            "device": "2018 MacBook Pro"
+        },
+        {
+            "id": 3,
+            "device": "2019 MacBook Pro"
+        },
+        {
+            "id": 4,
+            "device": "Lenovo ThinkPad E85"
+        }
+
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jameka Echols",
+            "departmentId": 3,
+            "computerId": 4
+        },
+        {
+            "id": 2,
+            "name": "JaNay Dunn",
+            "departmentId": 3,
+            "computerId": 1 
+        },
+        {
+            "id": 3,
+            "name": "Alexis Ramsey",
+            "departmentId": 1,
+            "computerId": 4
+        },
+        {
+            "id": 4,
+            "name": "Kyle Preston",
+            "departmentId": 4,
+            "computerId": 2
+        }
+    ]
+}
